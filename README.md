@@ -55,19 +55,3 @@ gcc -Wall -Wextra -std=c11 *.c -o demo && ./demo
 
 Open `data/sample-telemetry.jsonl` to inspect representative console output. This is
 useful when validating your hardware wiring or cloud logging pipeline.
-
-## Additional Notes (Legacy Content)
-
-# Troubleshoot Your Electronics Projects
-
-- Course: Troubleshoot Your Electronics Projects
-- Author: Ashraf S A AlMadhoun
-- Link: https://www.udemy.com/course/troubleshoot-electronics-projects-devices-check-maintenance-electronic/?couponCode=JULYMAXDICOUNT
-
-## Overview
-
-Apply systematic troubleshooting, measurement, and maintenance techniques to electronics.
-
-## Purchase With Discount
-
-Enroll using the link above to get a discounted price and fix issues effectively.
